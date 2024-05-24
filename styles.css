@@ -112,6 +112,9 @@ p {
     margin-left: 1.5rem;
 }
 
+.object {
+    letter-spacing: .4rem;
+}
 
 @media (max-width: 400px) {
     body {

@@ -13,13 +13,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](https://github.com/P-Mingi/Recipe-page/blob/main/assets/images/screenshot.png?raw=true)
 
+- Descktop version :
+
+![](https://github.com/P-Mingi/Product-preview-card-component/blob/main/images/screenshot-1.png?raw=true)
+
+- Phone version :
+
+![](https://github.com/P-Mingi/Product-preview-card-component/blob/main/images/screenshot-2.png?raw=true)
 
 ### Links
 
 - Solution URL: [My Solution Site URL](https://www.frontendmentor.io/solutions/social-links-profile-htmlcss-4bpUdR6FX2)
-- Live Site URL: [My Live Site URL](https://p-mingi.github.io/Recipe-page/)
+- Live Site URL: [My Live Site URL](https://p-mingi.github.io/Product-preview-card-component/)
 
 
 ### Built with
